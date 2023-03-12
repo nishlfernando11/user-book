@@ -1,6 +1,19 @@
-# Getting Started with Create React App
+#About Project: User Book
+This is a simple user listing application implemented with react.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Features:
+- Add new user data
+- List user list
+### Snapshots
+
+List view
+![User Lsit 1](https://user-images.githubusercontent.com/8665803/224532281-8d165f93-64e7-46c0-95b2-52cced563971.png)
+
+Adding new user
+![User Lsit adding user](https://user-images.githubusercontent.com/8665803/224532287-7ea5ac6d-da99-43e5-86f7-f9252b8f6ee7.png)
+
+Listing added users
+![User Lsit 3](https://user-images.githubusercontent.com/8665803/224532292-de2aae91-52a6-469c-b0d2-776422e2616b.png)
 
 ## Available Scripts
 
